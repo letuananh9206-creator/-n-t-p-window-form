@@ -1,0 +1,17 @@
+C:\Users\leduc\source\repos\baitap2\baitap2\bin\Debug\net10.0-windows\baitap2.exe
+C:\Users\leduc\source\repos\baitap2\baitap2\bin\Debug\net10.0-windows\baitap2.deps.json
+C:\Users\leduc\source\repos\baitap2\baitap2\bin\Debug\net10.0-windows\baitap2.runtimeconfig.json
+C:\Users\leduc\source\repos\baitap2\baitap2\bin\Debug\net10.0-windows\baitap2.dll
+C:\Users\leduc\source\repos\baitap2\baitap2\bin\Debug\net10.0-windows\baitap2.pdb
+C:\Users\leduc\source\repos\baitap2\baitap2\obj\Debug\net10.0-windows\baitap2.Form1.resources
+C:\Users\leduc\source\repos\baitap2\baitap2\obj\Debug\net10.0-windows\baitap2.csproj.GenerateResource.cache
+C:\Users\leduc\source\repos\baitap2\baitap2\obj\Debug\net10.0-windows\baitap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leduc\source\repos\baitap2\baitap2\obj\Debug\net10.0-windows\baitap2.AssemblyInfoInputs.cache
+C:\Users\leduc\source\repos\baitap2\baitap2\obj\Debug\net10.0-windows\baitap2.AssemblyInfo.cs
+C:\Users\leduc\source\repos\baitap2\baitap2\obj\Debug\net10.0-windows\baitap2.csproj.CoreCompileInputs.cache
+C:\Users\leduc\source\repos\baitap2\baitap2\obj\Debug\net10.0-windows\baitap2.dll
+C:\Users\leduc\source\repos\baitap2\baitap2\obj\Debug\net10.0-windows\refint\baitap2.dll
+C:\Users\leduc\source\repos\baitap2\baitap2\obj\Debug\net10.0-windows\baitap2.pdb
+C:\Users\leduc\source\repos\baitap2\baitap2\obj\Debug\net10.0-windows\baitap2.genruntimeconfig.cache
+C:\Users\leduc\source\repos\baitap2\baitap2\obj\Debug\net10.0-windows\ref\baitap2.dll
+C:\Users\leduc\source\repos\baitap2\baitap2\obj\Debug\net10.0-windows\baitap2.csproj.Up2Date

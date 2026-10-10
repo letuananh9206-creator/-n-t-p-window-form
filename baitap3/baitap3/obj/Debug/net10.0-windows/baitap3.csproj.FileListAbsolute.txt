@@ -1,0 +1,17 @@
+C:\Users\leduc\source\repos\baitap3\baitap3\obj\Debug\net10.0-windows\baitap3.Form1.resources
+C:\Users\leduc\source\repos\baitap3\baitap3\obj\Debug\net10.0-windows\baitap3.csproj.GenerateResource.cache
+C:\Users\leduc\source\repos\baitap3\baitap3\obj\Debug\net10.0-windows\baitap3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leduc\source\repos\baitap3\baitap3\obj\Debug\net10.0-windows\baitap3.AssemblyInfoInputs.cache
+C:\Users\leduc\source\repos\baitap3\baitap3\obj\Debug\net10.0-windows\baitap3.AssemblyInfo.cs
+C:\Users\leduc\source\repos\baitap3\baitap3\obj\Debug\net10.0-windows\baitap3.csproj.CoreCompileInputs.cache
+C:\Users\leduc\source\repos\baitap3\baitap3\bin\Debug\net10.0-windows\baitap3.exe
+C:\Users\leduc\source\repos\baitap3\baitap3\bin\Debug\net10.0-windows\baitap3.deps.json
+C:\Users\leduc\source\repos\baitap3\baitap3\bin\Debug\net10.0-windows\baitap3.runtimeconfig.json
+C:\Users\leduc\source\repos\baitap3\baitap3\bin\Debug\net10.0-windows\baitap3.dll
+C:\Users\leduc\source\repos\baitap3\baitap3\bin\Debug\net10.0-windows\baitap3.pdb
+C:\Users\leduc\source\repos\baitap3\baitap3\obj\Debug\net10.0-windows\baitap3.dll
+C:\Users\leduc\source\repos\baitap3\baitap3\obj\Debug\net10.0-windows\refint\baitap3.dll
+C:\Users\leduc\source\repos\baitap3\baitap3\obj\Debug\net10.0-windows\baitap3.pdb
+C:\Users\leduc\source\repos\baitap3\baitap3\obj\Debug\net10.0-windows\baitap3.genruntimeconfig.cache
+C:\Users\leduc\source\repos\baitap3\baitap3\obj\Debug\net10.0-windows\ref\baitap3.dll
+C:\Users\leduc\source\repos\baitap3\baitap3\obj\Debug\net10.0-windows\baitap3.csproj.Up2Date

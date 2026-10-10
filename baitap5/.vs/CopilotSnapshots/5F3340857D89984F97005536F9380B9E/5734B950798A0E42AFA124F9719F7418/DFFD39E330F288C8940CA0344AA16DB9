@@ -1,0 +1,208 @@
+﻿namespace baitap5
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            components = new System.ComponentModel.Container();
+            this.splitContainer1 = new System.Windows.Forms.SplitContainer();
+            this.groupBoxCustomer = new System.Windows.Forms.GroupBox();
+            this.labelCustomer = new System.Windows.Forms.Label();
+            this.textBoxCustomer = new System.Windows.Forms.TextBox();
+            this.labelShipping = new System.Windows.Forms.Label();
+            this.comboBoxShipping = new System.Windows.Forms.ComboBox();
+            this.groupBoxGrid = new System.Windows.Forms.GroupBox();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
+            this.toolStripStatusLabelTime = new System.Windows.Forms.ToolStripStatusLabel();
+            this.toolStripStatusLabelTotals = new System.Windows.Forms.ToolStripStatusLabel();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
+            this.splitContainer1.Panel1.SuspendLayout();
+            this.splitContainer1.Panel2.SuspendLayout();
+            this.splitContainer1.SuspendLayout();
+            this.groupBoxCustomer.SuspendLayout();
+            this.groupBoxGrid.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.statusStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // splitContainer1
+            // 
+            this.splitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainer1.Location = new System.Drawing.Point(0, 0);
+            this.splitContainer1.Name = "splitContainer1";
+            // 
+            // splitContainer1.Panel1
+            // 
+            this.splitContainer1.Panel1.Controls.Add(this.groupBoxCustomer);
+            // 
+            // splitContainer1.Panel2
+            // 
+            this.splitContainer1.Panel2.Controls.Add(this.groupBoxGrid);
+            this.splitContainer1.Size = new System.Drawing.Size(800, 430);
+            this.splitContainer1.SplitterDistance = 260;
+            this.splitContainer1.TabIndex = 0;
+            // 
+            // groupBoxCustomer
+            // 
+            this.groupBoxCustomer.Controls.Add(this.labelCustomer);
+            this.groupBoxCustomer.Controls.Add(this.textBoxCustomer);
+            this.groupBoxCustomer.Controls.Add(this.labelShipping);
+            this.groupBoxCustomer.Controls.Add(this.comboBoxShipping);
+            this.groupBoxCustomer.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupBoxCustomer.Location = new System.Drawing.Point(0, 0);
+            this.groupBoxCustomer.Name = "groupBoxCustomer";
+            this.groupBoxCustomer.Size = new System.Drawing.Size(260, 430);
+            this.groupBoxCustomer.TabIndex = 0;
+            this.groupBoxCustomer.TabStop = false;
+            this.groupBoxCustomer.Text = "Customer & Shipping";
+            // 
+            // labelCustomer
+            // 
+            this.labelCustomer.AutoSize = true;
+            this.labelCustomer.Location = new System.Drawing.Point(12, 28);
+            this.labelCustomer.Name = "labelCustomer";
+            this.labelCustomer.Size = new System.Drawing.Size(59, 15);
+            this.labelCustomer.TabIndex = 0;
+            this.labelCustomer.Text = "Customer:";
+            // 
+            // textBoxCustomer
+            // 
+            this.textBoxCustomer.Location = new System.Drawing.Point(12, 46);
+            this.textBoxCustomer.Name = "textBoxCustomer";
+            this.textBoxCustomer.Size = new System.Drawing.Size(232, 23);
+            this.textBoxCustomer.TabIndex = 1;
+            // 
+            // labelShipping
+            // 
+            this.labelShipping.AutoSize = true;
+            this.labelShipping.Location = new System.Drawing.Point(12, 82);
+            this.labelShipping.Name = "labelShipping";
+            this.labelShipping.Size = new System.Drawing.Size(100, 15);
+            this.labelShipping.TabIndex = 2;
+            this.labelShipping.Text = "Shipping method:";
+            // 
+            // comboBoxShipping
+            // 
+            this.comboBoxShipping.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBoxShipping.FormattingEnabled = true;
+            this.comboBoxShipping.Items.AddRange(new object[] {
+            "Standard",
+            "Express",
+            "Overnight"});
+            this.comboBoxShipping.Location = new System.Drawing.Point(12, 100);
+            this.comboBoxShipping.Name = "comboBoxShipping";
+            this.comboBoxShipping.Size = new System.Drawing.Size(232, 23);
+            this.comboBoxShipping.TabIndex = 3;
+            // 
+            // groupBoxGrid
+            // 
+            this.groupBoxGrid.Controls.Add(this.dataGridView1);
+            this.groupBoxGrid.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupBoxGrid.Location = new System.Drawing.Point(0, 0);
+            this.groupBoxGrid.Name = "groupBoxGrid";
+            this.groupBoxGrid.Size = new System.Drawing.Size(536, 430);
+            this.groupBoxGrid.TabIndex = 0;
+            this.groupBoxGrid.TabStop = false;
+            this.groupBoxGrid.Text = "Order Items";
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.AllowUserToAddRows = true;
+            this.dataGridView1.AllowUserToDeleteRows = true;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dataGridView1.Location = new System.Drawing.Point(3, 19);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(530, 408);
+            this.dataGridView1.TabIndex = 0;
+            // 
+            // statusStrip1
+            // 
+            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripStatusLabelTime,
+            this.toolStripStatusLabelTotals});
+            this.statusStrip1.Location = new System.Drawing.Point(0, 430);
+            this.statusStrip1.Name = "statusStrip1";
+            this.statusStrip1.Size = new System.Drawing.Size(800, 20);
+            this.statusStrip1.TabIndex = 1;
+            this.statusStrip1.Text = "statusStrip1";
+            // 
+            // toolStripStatusLabelTime
+            // 
+            this.toolStripStatusLabelTime.Name = "toolStripStatusLabelTime";
+            this.toolStripStatusLabelTime.Size = new System.Drawing.Size(118, 15);
+            this.toolStripStatusLabelTime.Text = "toolStripStatusLabelTime";
+            // 
+            // toolStripStatusLabelTotals
+            // 
+            this.toolStripStatusLabelTotals.Name = "toolStripStatusLabelTotals";
+            this.toolStripStatusLabelTotals.Size = new System.Drawing.Size(667, 15);
+            this.toolStripStatusLabelTotals.Spring = true;
+            this.toolStripStatusLabelTotals.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // timer1
+            // 
+            this.timer1.Interval = 1000;
+            // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
+            // 
+            // Form1
+            // 
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.splitContainer1);
+            this.Controls.Add(this.statusStrip1);
+            this.KeyPreview = true;
+            this.Name = "Form1";
+            this.Text = "Delivery Order Dashboard";
+            // event wiring
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
+            this.splitContainer1.Panel1.ResumeLayout(false);
+            this.splitContainer1.Panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
+            this.splitContainer1.ResumeLayout(false);
+            this.groupBoxCustomer.ResumeLayout(false);
+            this.groupBoxCustomer.PerformLayout();
+            this.groupBoxGrid.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.statusStrip1.ResumeLayout(false);
+            this.statusStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+        }
+
+        #endregion
+    }
+}
