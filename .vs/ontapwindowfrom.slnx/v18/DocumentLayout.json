@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leduc\\source\\repos\\ontapwindowfrom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2949C42-083D-401E-9998-7F8472F48F22}|ontapwindowfrom\\ontapwindowfrom.csproj|c:\\users\\leduc\\source\\repos\\ontapwindowfrom\\ontapwindowfrom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2949C42-083D-401E-9998-7F8472F48F22}|ontapwindowfrom\\ontapwindowfrom.csproj|solutionrelative:ontapwindowfrom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2949C42-083D-401E-9998-7F8472F48F22}|ontapwindowfrom\\ontapwindowfrom.csproj|c:\\users\\leduc\\source\\repos\\ontapwindowfrom\\ontapwindowfrom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2949C42-083D-401E-9998-7F8472F48F22}|ontapwindowfrom\\ontapwindowfrom.csproj|solutionrelative:ontapwindowfrom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2949C42-083D-401E-9998-7F8472F48F22}|ontapwindowfrom\\ontapwindowfrom.csproj|c:\\users\\leduc\\source\\repos\\ontapwindowfrom\\ontapwindowfrom\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2949C42-083D-401E-9998-7F8472F48F22}|ontapwindowfrom\\ontapwindowfrom.csproj|solutionrelative:ontapwindowfrom\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\leduc\\source\\repos\\ontapwindowfrom\\ontapwindowfrom\\Form1.cs",
+              "RelativeDocumentMoniker": "ontapwindowfrom\\Form1.cs",
+              "ToolTip": "C:\\Users\\leduc\\source\\repos\\ontapwindowfrom\\ontapwindowfrom\\Form1.cs",
+              "RelativeToolTip": "ontapwindowfrom\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T06:25:08.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\leduc\\source\\repos\\ontapwindowfrom\\ontapwindowfrom\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ontapwindowfrom\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\leduc\\source\\repos\\ontapwindowfrom\\ontapwindowfrom\\Form1.Designer.cs",
+              "RelativeToolTip": "ontapwindowfrom\\Form1.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T06:24:29.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\leduc\\source\\repos\\ontapwindowfrom\\ontapwindowfrom\\Form1.cs",
+              "RelativeDocumentMoniker": "ontapwindowfrom\\Form1.cs",
+              "ToolTip": "C:\\Users\\leduc\\source\\repos\\ontapwindowfrom\\ontapwindowfrom\\Form1.cs [Design]",
+              "RelativeToolTip": "ontapwindowfrom\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T06:21:17.949Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
