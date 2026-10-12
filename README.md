@@ -42,7 +42,7 @@ Bài3
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 ![Thực thi chức năng](./screenshots/execution_result3.png)
-![Thực thi chức năng](./screenshots/execution_result 3.png)
+![Thực thi chức năng](./screenshots/execution_result3(2).png)
 
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
 
